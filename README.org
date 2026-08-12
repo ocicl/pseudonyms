@@ -8,4 +8,4 @@ A reader-macro way to create non-destructive nicknames within portable Common Li
 | systems | pseudonyms |
 |---------+-------------------------------------------|
 
- 
+  
