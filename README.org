@@ -2,10 +2,10 @@
 
 A reader-macro way to create non-destructive nicknames within portable Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/phoe-krk/pseudonyms.git   |
-| commit  | 7d3b643  |
-| systems | pseudonyms |
-|---------+-------------------------------------------|
+|---------+--------------------------------------------|
+| source  | git:https://github.com/phoe/pseudonyms.git |
+| commit  | 7d3b643                                    |
+| systems | pseudonyms                                 |
+|---------+--------------------------------------------|
 
   
